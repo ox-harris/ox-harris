@@ -1,0 +1,319 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/* Icons */
+@font-face {
+  font-family:'icons';
+  src:url('../fonts/icons.eot?9381298');
+  src:url('../fonts/icons.eot?9381298#iefix') format('embedded-opentype'),
+       url('../fonts/icons.woff?9381298') format('woff'),
+       url('../fonts/icons.ttf?9381298') format('truetype'),
+       url('../fonts/icons.svg?9381298#icons') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+
+.ico {
+}
+.subject-icon:before,
+.rtl-subject-icon:before {
+	padding-right: 15px;
+	border-right: 1px solid;
+	margin-right: 10px;
+}
+
+
+.rtl-subject-icon:before {
+	padding-right:0px;
+	border-right:none;
+	margin-right:auto;
+	padding-left: 15px;
+	border-left: 1px solid;
+	margin-left: 10px;
+}
+
+
+.ico:before {
+	position:relative;
+	font-family:'icons';
+	display:inline-block;
+	content:"";
+}
+.ico.icon-search:before {
+	content:"\e800";
+}
+.ico.icon-ok:before {
+	content:"\e801";
+}
+.ico.icon-cancel:before {
+	content:"\e802";
+}
+.ico.icon-alert:before {
+	content:"\e803";
+}
+.ico.icon-share:before {
+	content:"\e804";
+}
+.ico.icon-eye:before {
+	content:"\e805";
+}
+.ico.icon-down:before {
+	content:"\e806";
+}
+.ico.icon-facebook:before {
+	content:"\e807";
+}
+.ico.icon-gplus-1:before {
+	content:"\e808";
+}
+.ico.icon-pinterest:before {
+	content:"\e809";
+}
+.ico.icon-rss:before {
+	content:"\e810";
+}
+.ico.icon-heart:before {
+	content:"\e811";
+}
+.ico.icon-twitter:before {
+	content:"\e812";
+}
+.ico.icon-comment:before {
+	content:"\e813";
+}
+.ico.icon-dribbble:before {
+	content:"\e815";
+}
+.ico.icon-behance:before {
+	content:"\e816";
+}
+.ico.icon-linkedin:before {
+	content:"\e817";
+}
+.ico.icon-facebook-rect:before {
+	content:"\e818";
+}
+.ico.icon-link:before {
+	content:"\e819";
+}
+.ico.icon-youtube:before {
+	content:"\e820";
+}
+.ico.icon-vimeo:before {
+	content:"\e821";
+}
+.ico.icon-plus:before {
+	content:"\e822";
+}
+.ico.icon-email:before {
+	content:"\e823";
+}
+.ico.icon-up:before {
+	content:"\e824";
+}
+.ico.icon-down-1:before {
+	content:"\e825";
+}
+.ico.icon-stumbleupon:before {
+	content:"\e826";
+}
+.ico.icon-window:before {
+	content:"\e827";
+}
+.ico.icon-monitor:before {
+	content:"\e828";
+}
+.ico.icon-mobile:before {
+	content:"\e829";
+}
+.ico.icon-skype:before {
+	content:"\e830";
+}
+.ico.icon-gplus-circled:before {
+	content:"\e831";
+}
+.ico.icon-lock-filled:before {
+	content:"\e832";
+}
+.ico.icon-location:before {
+	content:"\e833";
+}
+.ico.icon-credit-card:before {
+	content:"\e834";
+}
+.ico.icon-file-pdf:before {
+	content:"\e835";
+}
+.ico.icon-crown:before {
+	content:"\e836";
+}
+.ico.icon-laurel:before {
+	content:"\e837";
+}
+.ico.icon-camera:before {
+	content:"\e838";
+}
+.ico.icon-globe:before {
+	content:"\e839";
+}
+.ico.icon-pencil:before {
+	content:"\e840";
+}
+.ico.icon-medal:before {
+	content:"\e841";
+}
+.ico.icon-attention:before {
+	content:"\e842";
+}
+.ico.icon-instagramm:before {
+	content:"\e843";
+}
+.ico.icon-user-add:before {
+	content:"\e844";
+}
+.ico.icon-chair:before {
+	content:"\e845";
+}
+
+
+
+/*============================================*/
+/*== NOW WE'RE DEAlING wITH 'ICON' NOT ICO ===*/
+/*============================================*/
+
+
+
+.icon:before {
+	position:relative;
+	display:inline-block;
+	margin-left:5px;
+	margin-right:5px;
+}
+/*---------*/
+.icon.icon-ar-left:before,
+.icon.icon-hover-ar-left:hover:before,
+.icon.icon-focus-ar-left:focus:before {
+	content:"\25C0";
+}
+.icon.icon-ar-right:before,
+.icon.icon-hover-ar-right:hover:before,
+.icon.icon-focus-ar-right:focus:before {
+	content:"\25BA";
+}
+.icon.icon-ar-up:before,
+.icon.icon-hover-ar-up:hover:before,
+.icon.icon-focus-ar-up:focus:before {
+	content:"\25B2";
+}
+.icon.icon-ar-down:before,
+.icon.icon-hover-ar-down:hover:before,
+.icon.icon-focus-ar-down:focus:before {
+	content:"\25BC";
+}
+/*---------*/
+.icon.icon-sm-ar-left:before,
+.icon.icon-hover-sm-ar-left:hover:before,
+.icon.icon-focus-sm-ar-left:focus:before {
+	content:"\25C2";
+}
+.icon.icon-sm-ar-right:before,
+.icon.icon-hover-sm-ar-right:hover:before,
+.icon.icon-focus-sm-ar-right:focus:before {
+	content:"\25B8";
+}
+.icon.icon-sm-ar-up:before,
+.icon.icon-hover-sm-ar-up:hover:before,
+.icon.icon-focus-sm-ar-up:focus:before {
+	content:"\25B4";
+}
+.icon.icon-sm-ar-down:before,
+.icon.icon-hover-sm-ar-down:hover:before,
+.icon.icon-focus-sm-ar-down:focus:before {
+	content:"\25BE";
+}
+/*---------*/
+.icon.icon-ar-next:before,
+.icon.icon-hover-ar-next:hover:before,
+.icon.icon-focus-ar-next:focus:before {
+	content:"\203A";
+}
+.icon.icon-ar-prev:before,
+.icon.icon-hover-ar-prev:hover:before,
+.icon.icon-focus-ar-prev:focus:before {
+	content:"\2039";
+}
+.icon.icon-wd-ar-next:before,
+.icon.icon-hover-wd-ar-next:hover:before,
+.icon.icon-focus-wd-ar-next:focus:before {
+	content:"\232A";
+}
+.icon.icon-wd-ar-prev:before,
+.icon.icon-hover-wd-ar-prev:hover:before,
+.icon.icon-focus-wd-ar-prev:focus:before {
+	content:"\2329";
+}
+/*---------*/
+.icon.icon-ok:before,
+.icon.icon-hover-ok:hover:before,
+.icon.icon-focus-ok:focus:before {
+	content:"\2713";
+}
+.icon.icon-cancel:before,
+.icon.icon-hover-cancel:hover:before,
+.icon.icon-focus-cancel:focus:before {
+	content:'âœ–';
+	content:"\2717";
+}
+.icon.icon-danger:before,
+.icon.icon-hover-danger:hover:before,
+.icon.icon-focus-danger:focus:before {
+	content:"\21AF";
+}
+/*---------*/
+.icon.icon-anticlw-semicircle:before,
+.icon.icon-hover-anticlw-semicircle:hover:before,
+.icon.icon-focus-anticlw-semicircle:focus:before {
+	content:"\21B6";
+}
+.icon.icon-clw-semicircle:before,
+.icon.icon-hover-clw-semicircle:hover:before,
+.icon.icon-focus-clw-semicircle:focus:before {
+	content:"\21B7";
+}
+.icon.icon-anticlw-open-circle:before,
+.icon.icon-hover-anticlw-open-circle:hover:before,
+.icon.icon-focus-anticlw-open-circle:focus:before {
+	content:"\21BA";
+}
+.icon.icon-clw-open-circle:before,
+.icon.icon-hover-clw-open-circle:hover:before,
+.icon.icon-focus-clw-open-circle:focus:before {
+	content:"\21BB";
+}
+.icon.icon-bulls-eye:before,
+.icon.icon-hover-bulls-eye:hover:before,
+.icon.icon-focus-bulls-eye:focus:before {
+	content:"\25CE 	";
+}
+.icon.icon-fish-eye:before,
+.icon.icon-hover-fish-eye:hover:before,
+.icon.icon-focus-fish-eye:focus:before {
+	content:"\25C9";
+}
+/*---------*/
+.icon.icon-hourglass:before,
+.icon.icon-hover-hourglass:hover:before,
+.icon.icon-focus-hourglass:focus:before {
+	content:"\231B";
+}
+
+.no-icon:before {
+	display:none;
+}
+
+
+

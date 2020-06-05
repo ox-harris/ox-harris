@@ -1,0 +1,452 @@
+
+body {
+	position:relative;
+	color:black;
+	background:darkTurquoise;
+	background:mediumTurquoise;
+}
+
+body,
+.font-default {
+	font-size:18px;
+    font-family:'MuseoSans', sans-serif, 'Lucida Grande';
+}
+
+body, .flex-box > * {
+	font-size:18px;
+}
+p {
+	line-height:150%;/**/
+}
+a {
+	text-decoration:none;
+	color:teal;
+}
+a:hover {
+	text-decoration:underline;
+	color:mediumvioletred;
+	color:red;
+}
+a.a-no-dec {
+	text-decoration:none !important;
+}
+a:visited {
+	/*color:inherit;*/
+}
+
+.bdr-base,
+.hover-bdr-base:hover,
+.active-bdr-base:active,
+.active-bdr-base.active,
+.disabled-bdr-base:disabled,
+.disabled-bdr-base.disabled,
+.focus-bdr-base:focus {
+	border-color:rgba(238,238,238,1) !important;
+}
+.bdr-teal,
+.hover-bdr-teal:hover,
+.active-bdr-teal:active,
+.active-bdr-teal.active,
+.disabled-bdr-teal:disabled,
+.disabled-bdr-teal.disabled,
+.focus-bdr-teal:focus {
+	border-color:teal !important;
+}
+.bdr-turquoise,
+.hover-bdr-turquoise:hover,
+.active-bdr-turquoise:active,
+.active-bdr-turquoise.active,
+.disabled-bdr-turquoise:disabled,
+.disabled-bdr-turquoise.disabled,
+.focus-bdr-turquoise:focus {
+	border-color:mediumturquoise !important;
+}
+.bdr-vred,
+.hover-bdr-vred:hover,
+.active-bdr-vred:active,
+.active-bdr-vred.active,
+.disabled-bdr-vred:disabled,
+.disabled-bdr-vred.disabled,
+.focus-bdr-vred:focus {
+	border-color:mediumvioletred !important;
+}
+.bdr-azure,
+.hover-bdr-azure:hover,
+.active-bdr-azure:active,
+.active-bdr-azure.active,
+.disabled-bdr-azure:disabled,
+.disabled-bdr-azure.disabled,
+.focus-bdr-azure:focus {
+	border-color:azure !important;
+}
+.bdr-yellow,
+.hover-bdr-yellow:hover,
+.active-bdr-yellow:active,
+.active-bdr-yellow.active,
+.disabled-bdr-yellow:disabled,
+.disabled-bdr-yellow.disabled,
+.focus-bdr-yellow:focus {
+	border-color:yellow !important;
+}
+.bg-base,
+.hover-bg-base:hover,
+.active-bg-base:active,
+.active-bg-base.active,
+.disabled-bg-base:disabled,
+.disabled-bg-base.disabled,
+.focus-bg-base:focus {
+	background:whiteSmoke;
+	background:#F0F0F0;
+	background:rgba(240,240,240,1);
+	background:#EEEEEE;
+	background:rgba(238,238,238,1) !important;
+}
+.bg-teal,
+.hover-bg-teal:hover,
+.active-bg-teal:active,
+.active-bg-teal.active,
+.disabled-bg-teal:disabled,
+.disabled-bg-teal.disabled,
+.focus-bg-teal:focus {
+	background:teal !important;
+}
+.bg-turquoise,
+.hover-bg-turquoise:hover,
+.active-bg-turquoise:active,
+.active-bg-turquoise.active,
+.disabled-bg-turquoise:disabled,
+.disabled-bg-turquoise.disabled,
+.focus-bg-turquoise:focus {
+	background:mediumturquoise !important;
+}
+.bg-vred,
+.hover-bg-vred:hover,
+.active-bg-vred:active,
+.active-bg-vred.active,
+.disabled-bg-vred:disabled,
+.disabled-bg-vred.disabled,
+.focus-bg-vred:focus {
+	background:mediumvioletred !important;
+}
+.bg-azure,
+.hover-bg-azure:hover,
+.active-bg-azure:active,
+.active-bg-azure.active,
+.disabled-bg-azure:disabled,
+.disabled-bg-azure.disabled,
+.focus-bg-azure:focus {
+	background:azure !important;
+}
+.bg-yellow,
+.hover-bg-yellow:hover,
+.active-bg-yellow:active,
+.active-bg-yellow.active,
+.disabled-bg-yellow:disabled,
+.disabled-bg-yellow.disabled,
+.focus-bg-yellow:focus {
+	background:yellow !important;
+}
+.color-base,
+.hover-color-base:hover,
+.active-color-base:active,
+.active-color-base.active,
+.disabled-color-base:disabled,
+.disabled-color-base.disabled,
+.focus-color-base:focus {
+	color:#EEEEEE !important;
+	color:rgba(238,238,238,1) !important;
+}
+.color-teal,
+.hover-color-teal:hover,
+.active-color-teal:active,
+.active-color-teal.active,
+.disabled-color-teal:disabled,
+.disabled-color-teal.disabled,
+.focus-color-teal:focus {
+	color:teal !important;
+}
+.color-turquoise,
+.hover-color-turquoise:hover,
+.active-color-turquoise:active,
+.active-color-turquoise.active,
+.disabled-color-turquoise:disabled,
+.disabled-color-turquoise.disabled,
+.focus-color-turquoise:focus {
+	color:mediumturquoise !important;
+}
+.color-vred,
+.hover-color-vred:hover,
+.active-color-vred:active,
+.active-color-vred.active,
+.disabled-color-vred:disabled,
+.disabled-color-vred.disabled,
+.focus-color-vred:focus {
+	color:mediumvioletred !important;
+}
+.color-azure,
+.hover-color-azure:hover,
+.active-color-azure:active,
+.active-color-azure.active,
+.disabled-color-azure:disabled,
+.disabled-color-azure.disabled,
+.focus-color-azure:focus {
+	color:azure !important;
+}
+.color-yellow,
+.hover-color-yellow:hover,
+.active-color-yellow:active,
+.active-color-yellow.active,
+.disabled-color-yellow:disabled,
+.disabled-color-yellow.disabled,
+.focus-color-yellow:focus {
+	color:yellow !important;
+}
+
+
+.page-share > li:nth-child(n+6) {
+	display:none;
+}
+@media all and (max-width:1000px) {
+	.page-share > li:nth-child(n+6) {
+		display:inline-block;
+	}
+}
+.page-share li:after {
+	position:relative;
+	display:block;
+	clear:both;
+}
+.page-share li > a,
+.page-share li > span {
+	position:relative;
+	font-size:125%;/**/
+	padding:2.5px;
+	display:block;
+	color:mediumTurquoise;
+	color:teal;
+	line-height:30px;
+}
+.page-share li a:hover {
+	margin-top:-2px;
+	text-decoration:none;
+	color:red;
+	color:mediumTurquoise;
+	border-bottom:2px solid mediumTurquoise;
+}
+.page-share li a span {
+	float:right;
+	display:none;
+}
+
+
+
+
+
+/*whether they have href or not*/
+a[href*="#"]:not(.a-no-hash):not(.button):before {
+	position:relative;
+	display:inline-block;
+	opacity:0.25;
+	font-size:smaller;
+	content:"# ";
+}
+a[href*="#"]:not(.a-no-hash):not(.button):hover:before {
+	opacity:0.5;
+}
+
+
+
+
+
+
+.shift-items-anchor {
+}
+.shift-items-anchor[data-play-shift-items="onhover"]:not(:hover) .shift-item._master,
+.shift-items-anchor[data-play-shift-items="onfocus"]:not(:focus) .shift-item._master {
+	width:100% !important;
+}
+.shift-items-anchor[data-play-shift-items="onhover"]:not(:hover) .shift-item._slave,
+.shift-items-anchor[data-play-shift-items="onfocus"]:not(:focus) .shift-item._slave {
+	width:0px !important;
+	overflow:hidden !important;
+}
+.shift-item {
+	position:relative;
+	display:inline-block;
+	vertical-align:middle;
+}
+.shift-item._master {
+	width:97.5%;
+}
+.shift-item._slave {
+	width:2.5%;
+}
+
+
+
+
+
+
+
+/* BEGIN LAYOUT */
+
+
+.layout-section {
+	position:relative;
+	/*max-width:1366px;*/
+	margin:auto;
+	background-position:center;
+	background-size:cover;
+}
+main .layout-section {
+	/*margin-bottom:1px;*/
+}
+
+
+
+
+
+
+
+
+.layout-column {
+	position:relative;
+	min-height:5px;
+	display:block;
+	margin:auto;
+}
+main .layout-column {
+	padding-top:0px;
+	padding-bottom:0px;
+}
+/* When pulled up into Overview, this fails */
+section /*!important*/ > .layout-column {
+	padding-top:50px !important;
+}
+@media all and (max-width:983px){
+	/* When pulled up into Overview, this fails */
+	section /*!important*/ > .layout-column {
+		padding-top:0px !important;
+	}
+}
+.layout-column:empty {
+	padding:0px;
+	margin:0px;
+}
+
+
+
+#page-search {
+	/*padding:10px;*/
+}
+#page-search ._entry {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+
+
+
+/* CONTINUE LAYOUT */
+
+
+
+
+.layout-column > * {
+	position:relative;
+}
+.layout-column h2,
+.layout-column .h2 {
+	color:teal;
+}
+
+
+
+
+.shadow-in {
+	-moz-box-shadow:0px 0px 5px 0px rgba(0,0,0,0.175) inset;
+	-webkit-box-shadow:0px 0px 5px 0px rgba(0,0,0,0.175) inset;
+	box-shadow:0px 0px 5px 0px rgba(0,0,0,0.175) inset;
+}
+.layout-column._main > ._content {
+	padding:25px;
+	border-top:1px solid turquoise;
+	background:white;
+}
+.layout-column._main > ._content._padded {
+	padding-top:100px;
+	padding-bottom:100px;
+}
+.layout-column._main > ._content + ._content {
+	margin-top:5px;
+}
+.layout-column._side > ._content {
+	padding:15px;
+}
+.layout-column._side > ._content + ._content {
+	margin-top:50px;
+}
+
+
+
+.layout-column > ._footer {
+	position:relative;
+	padding:10px;
+	background:rgba(255,255,255,0.5);
+	background:white;
+}
+.layout-column > ._footer:hover {
+}
+.layout-column > ._footer > * {
+	line-height:25px;
+	font-size:16px;
+	font-size:initial;
+}
+
+
+/*_painted*/
+.layout-column._painted > ._header {
+	/*color:LightSeaGreen;*/
+}
+.layout-column._painted > ._footer {
+	color:white;
+	background:mediumTurquoise;
+	background:lightSeaGreen;
+}
+.layout-column._painted [data-role="nav"] {
+	color:mediumVioletRed !important;
+}
+
+
+
+
+
+
+.layout-column > ._footer a:not(:hover) {
+	color:inherit;
+}
+.layout-column > ._footer .dot-options-handle:hover,
+.layout-column > ._footer a:hover:before,
+.layout-column > ._footer a:hover {
+	/*color:azure;*/
+	border-color:azure;
+}
+.layout-column._painted > ._footer .dot-options-handle:hover,
+.layout-column._painted > ._footer a:hover:before,
+.layout-column._painted > ._footer a:hover {
+	/**/color:azure;
+	border-color:azure;
+}
+/*
+*/
+
+
+
+
+
+
+
+
+
+
+

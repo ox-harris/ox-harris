@@ -20,11 +20,11 @@
 
 > Ask me anything on:
 
+- JavaScript/Node.js
 - Reactivity
 - Web-Native Development
 - Open Source
 - Startups
-- JavaScript/Node.js
 - DOM APIs
 - Web Standards
 

@@ -1,9 +1,8 @@
-## Hi 👋, I'm Oxford Harrison
+# Hi 👋, I'm Oxford Harrison
 
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 
 <a href="https://linkedin.com/in/ox-harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ox-harris" height="30" width="40" /></a>
-<a href="https://instagram.com/ox_harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ox_harris" height="30" width="40" /></a>
 <a href="https://dev.to/ox-harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ox-harris" height="30" width="40" /></a>
 
 </div>
@@ -15,6 +14,7 @@
 - The universal no-JS/low-JS framework: [Webflo](https://github.com/webqit/webflo)
 - The reactive JavaScript compiler: [Subscript Functions](https://github.com/webqit/subscript)
 - The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
+- The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
 
 ## 💬 AMA
 
@@ -22,11 +22,14 @@
 
 - JavaScript/Node.js
 - Reactivity
+- Imperative Reactive Programming (IRP)
+- DOM/Browser APIs
+- Web Components
+- Progressive Web Apps (PWA)
 - Web-Native Development
+- Web Standards
 - Open Source
 - Startups
-- DOM APIs
-- Web Standards
 
 ## 🔭 Tech
 

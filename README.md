@@ -17,7 +17,7 @@
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
 - And [much more](https://github.com/webqit).
 
-> It's wild that *it works*! 😀
+> It's wild that *it works*!<br />
 > Want to be an early contributor? PRs and Issues are welcome! Also, every star 🌟 counts!
 
 <details>

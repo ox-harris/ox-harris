@@ -85,8 +85,10 @@ Besides contributing to open source I enjoy tinkering with electronics, hardware
 
 ## 🌱 Now Playing...
 
-> - Scrabble
-> - Car Racing
-> - Orchestra
+> Scrabble
+
+> Car Racing
+
+> Orchestra
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />

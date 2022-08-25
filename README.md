@@ -1,4 +1,4 @@
-# Hi 👋, I'm Oxford Harrison
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Oxford Harrison
 
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 

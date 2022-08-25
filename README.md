@@ -16,6 +16,11 @@
 - The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
 
+> Each project is part of a single noble goal: to provide **the most basic, web-native answer** to many of the paradigms that the community is still struggling to unravel!
+<!--
+Complex patterns have been designed around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, etc. and it's wild that we consistent missed the whole point each time for a whole decade! 
+-->
+
 <details>
 <summary>...meet me here</summary>
 

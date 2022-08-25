@@ -9,24 +9,26 @@
 
 ## 🔭 An Experimentalist
 
-> A Curiosity Rover who's ever failing, winning, and learning in public, but actively building tools for a web-native future! 😎<br />
-> Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc. 
+> A Curiosity Rover who's ever failing, winning, and learning in public, but actually (and seriously) building tools for a web-native future! 😎<br />
+> Here's that selection that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc.
 
-- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: Your most-basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite for a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 - **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
+- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite for a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *and [much more](https://github.com/webqit)*.
 
-> It's wild that *it works*! (Considering the complexity around these subjects.)<br />
-> Be an early contributor: PRs and Issues are welcome! Also, every star 🌟 counts!
+> Holy! It works! And that's a big deal, considering the complexity and toolchains around these subjects out there in the wild where I come from!<br />
+> Be an early contributor: PRs and Issues are welcome! Also, a star 🌟 would mean a lot!
 
 <details>
-<summary>...and here's a story</summary>
+<summary>...how about a short story?</summary>
 
-> You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
+> You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer age arrived in late 2012 - yeah, for me! I built things at the speed of thought! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
 
-> Coming to web development wasn't without the same flare! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often monkeying with the DOM and browser APIs, and hopping into that compiler to find the missing pieces in HTML, CSS, and JavaScript than accept a framework that'll charge me an arm and a leg! It's pissing when you fail and have to restart! But who says no to fun?
+> Coming to web development wasn't without the same flare! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often choosing to monkey with the DOM and browser APIs, and to jump right into that compiler to find the missing pieces in native HTML, CSS, and JavaScript than accept a framework that'll charge me an arm and a leg! It's pissing when you fail and have to restart! But who says no to fun?
+
+> Futhermore, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But me unfold this as a moving story through tweets and articles! 
 
 </details>
 

@@ -11,11 +11,11 @@
 
 > Failing and winning, and learning in public, but building tools for a web-native future! Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, and more! 
 
-- The universal no-JS/low-JS framework: [Webflo](https://github.com/webqit/webflo)
-- The reactive JavaScript compiler: [Subscript Functions](https://github.com/webqit/subscript)
-- The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
-- The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
-- And [much more](https://github.com/webqit).
+- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
+- **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: Your most-basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
+- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite for a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
+- *and [much more](https://github.com/webqit)*.
 
 > It's wild that *it works*!<br />
 > Want to be an early contributor? PRs and Issues are welcome! Also, every star 🌟 counts!

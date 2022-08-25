@@ -15,8 +15,10 @@
 - The reactive JavaScript compiler: [Subscript Functions](https://github.com/webqit/subscript)
 - The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
+- And [much more](https://github.com/webqit).
 
 > It's wild that *it works*! 😀
+> Want to be an early contributor? PRs and Issues are welcome! Also, every star 🌟 counts!
 
 <details>
 <summary>...meet me here</summary>

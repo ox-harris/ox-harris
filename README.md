@@ -7,10 +7,6 @@
 
 </div>
 
-<br />
-
-You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
-
 ## 🔭 An Experimentalist
 
 > Failing and winning in public, building:
@@ -19,6 +15,13 @@ You'd be right to think I'm a go-getter, and there's a chance I've succeeded onc
 - The reactive JavaScript compiler: [Subscript Functions](https://github.com/webqit/subscript)
 - The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
+
+<details>
+<summary>Meet me here</summary>
+
+You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
+
+</details>
 
 ## 💬 AMA
 
@@ -35,7 +38,7 @@ You'd be right to think I'm a go-getter, and there's a chance I've succeeded onc
 - Open Source
 - Startups
 
-## ⚡ Tech
+## ⚡ Technologies
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>

@@ -29,7 +29,7 @@
 
 ## 💬 AMA
 
-> Ask me anything on:
+> Ask me anything (seriously) on my most-exciting topics:
 
 - JavaScript/Node.js
 - Reactivity
@@ -41,6 +41,8 @@
 - Web Standards
 - Open Source
 - Startups
+
+> It's easy: you can [schedule a brief meeting](https://calendly.com/ox-harris) with me on Calendly, or drop me a mail at `oxharris.dev``@``gmail.com`.
 
 ## ⚡ Technologies
 

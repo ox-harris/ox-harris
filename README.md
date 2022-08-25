@@ -9,7 +9,7 @@
 
 ## 🔭 An Experimentalist
 
-> Ever failing, winning, and learning in public, but actively building tools for a web-native future! 😎<br />
+> A Curiosity Rover who's ever failing, winning, and learning in public, but actively building tools for a web-native future! 😎<br />
 > Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc. 
 
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
@@ -24,7 +24,9 @@
 <details>
 <summary>...meet me here</summary>
 
-> You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
+> You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there are the hundreds of artworks, electronic toys and hand-wired circuit boards I began making from as early as when I could talk - until the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
+
+> Coming to web development wasn't without the usual voltage! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often monkeying with the DOM and browser APIs, and hopping into that compiler to find the missing pieces in HTML, CSS, and JavaScript than accept a wasteful-by-design framework that'll charge me an arm and a leg! (I get it: it's pissing!) I'm often failing and restarting, and only a few things make it! But who says no to fun?
 
 </details>
 

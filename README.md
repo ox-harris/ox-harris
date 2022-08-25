@@ -66,8 +66,11 @@
 </p>
 
 <!--
-## 🌱 And Oh, Play Time?
+
+Besides contributing to open source I enjoy tinkering with electronics, hardware hacking
 -->
+
+## 🌱 Now Playing...
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />
 

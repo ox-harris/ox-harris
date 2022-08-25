@@ -22,7 +22,7 @@
 > Be an early contributor: PRs and Issues are welcome! Also, a star 🌟 would mean a lot!
 
 <details>
-<summary>...how about a short story?</summary>
+<summary>- Now, how about the story of me?</summary>
 
 > You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer age arrived in late 2012 - yeah, for me! I built things at the speed of thought! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
 

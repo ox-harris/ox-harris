@@ -22,7 +22,7 @@
 > Be an early contributor: PRs and Issues are welcome! Also, every star 🌟 counts!
 
 <details>
-<summary>...and here's a bit about mw</summary>
+<summary>...and here's a story</summary>
 
 > You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
 

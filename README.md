@@ -13,7 +13,7 @@
 > Here's that selection that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc.
 
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
+- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
 - **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *and [much more](https://github.com/webqit)*.
@@ -26,9 +26,9 @@
 
 > You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer age arrived in late 2012 - yeah, for me! I built things at the speed of thought! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
 
-> Coming to web development wasn't without the same flare! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often choosing to monkey with the DOM and browser APIs, and to jump right into that compiler to find the missing pieces in native HTML, CSS, and JavaScript than accept a framework that'll charge me an arm and a leg! It's pissing when you fail and have to restart! But who says no to fun?
+> Coming to web development wasn't without the same flare! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often choosing to monkey with the DOM and browser APIs, and to jump right into that compiler to find the missing pieces in native HTML, CSS, and JavaScript than accept a framework that'll charge me an arm and a leg! It's pissing that I often fail in the process and have to restart! But who says no to fun?
 
-> Futhermore, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But me unfold this as a moving story through tweets and articles! 
+> And, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But me unfold this as a moving story through tweets and articles! 
 
 </details>
 

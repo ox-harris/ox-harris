@@ -28,7 +28,7 @@
 
 > Coming to web development wasn't without the same flare to explore! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often choosing to monkey with the DOM and browser APIs, and to jump right into that compiler to find the missing pieces in native HTML, CSS, and JavaScript rather than accept a framework that'll charge me an arm and a leg! It's pissing that I often fail in the process and have to restart! But who says no to fun?
 
-> And, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But me unfold this as a moving story through tweets and articles! 
+> Now, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But me unfold this as a moving story through tweets and articles! 
 
 </details>
 

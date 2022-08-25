@@ -9,8 +9,7 @@
 
 ## 🔭 An Experimentalist
 
-> Failing, winning, and learning each time in public, but seriously building tools for a web-native future!
-
+> Failing, winning, and learning in public, but actually building tools for a web-native future!
 > Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, and more! 
 
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.

@@ -15,7 +15,7 @@
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: Your most-basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 - **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite for a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
-- **[Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
+- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
 - *and [much more](https://github.com/webqit)*.
 
 > It's wild that *it works*! (Considering the complexity around these subjects.)<br />

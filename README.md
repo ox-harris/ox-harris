@@ -9,14 +9,14 @@
 
 ## 🔭 An Experimentalist
 
-> Failing and winning, and learning in public, but building tools for a web-native future! Look no further:
+> Failing and winning, and learning in public, but building tools for a web-native future! Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, and more! 
 
 - The universal no-JS/low-JS framework: [Webflo](https://github.com/webqit/webflo)
 - The reactive JavaScript compiler: [Subscript Functions](https://github.com/webqit/subscript)
 - The DOM API suite: [OOHTML](https://github.com/webqit/oohtml)
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
 
-> It's wild what you find when you investigate the complex framework-based patterns designed around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, etc.! 
+> It's wild that *it works*! 😀
 
 <details>
 <summary>...meet me here</summary>

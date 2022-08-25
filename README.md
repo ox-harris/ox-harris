@@ -7,6 +7,8 @@
 
 </div>
 
+You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
+
 ## 🔭 An Experimentalist
 
 > Failing and winning in public, building:
@@ -77,7 +79,3 @@ Besides contributing to open source I enjoy tinkering with electronics, hardware
 - Orchestra
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />
-
-## About
-
-You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)

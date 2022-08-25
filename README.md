@@ -1,5 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford Harrison
 
+You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript!
+
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 
 <a href="https://linkedin.com/in/ox-harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ox-harris" height="30" width="40" /></a>

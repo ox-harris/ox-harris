@@ -42,7 +42,7 @@
 - Open Source
 - Startups
 
-> It's easy: you can [schedule a brief meeting](https://calendly.com/ox-harris) with me on Calendly, or drop me a mail at `oxharris.dev``@``gmail.com`.
+> It's easy: you can [schedule a brief meeting](https://calendly.com/ox-harris) with me on Calendly, or drop me a mail at `oxharris.dev` `@` `gmail.com`.
 
 ## ⚡ Technologies
 
@@ -85,8 +85,8 @@ Besides contributing to open source I enjoy tinkering with electronics, hardware
 
 ## 🌱 Now Playing...
 
-- Scrabble
-- Car Racing
-- Orchestra
+> - Scrabble
+> - Car Racing
+> - Orchestra
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />

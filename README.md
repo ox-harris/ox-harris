@@ -9,7 +9,7 @@
 
 ## 🔭 An Experimentalist
 
-> A Curiosity Rover who's ever failing, winning, and learning in public, but actually (and seriously) building tools for a web-native future! 😎<br />
+> A Curiosity Rover who keeps failing, winning, and learning in public, but actually (and seriously) building tools for a web-native future! 😎<br />
 > Here's that selection that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc.
 
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)

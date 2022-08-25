@@ -10,13 +10,13 @@
 ## 🔭 An Experimentalist
 
 > A Curiosity Rover who doesn't mind failing, learning, and winning in public, to build tools for the web of the future! 😎<br />
-> Look below for that simple toolset that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc.
+> Look below for that simple toolset that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, and more.
 
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 - **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
 - **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
-- *and [much more](https://github.com/webqit)*.
+- *[etc](https://github.com/webqit)*.
 
 > Holy! It works! And that's a big deal, considering the complexity and toolchains around these subjects out there in the wild where I come from!<br />
 > Be an early contributor: PRs and Issues are welcome! Also, a star 🌟 would mean a lot!

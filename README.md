@@ -10,7 +10,7 @@
 ## 🔭 An Experimentalist
 
 > Failing, winning, and learning in public, but actually building tools for a web-native future! 😎<br />
-> Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, whole application architectures like`SPA/MPA/MPA+SPA`, etc. 
+> Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, etc. 
 
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: Your most-basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)

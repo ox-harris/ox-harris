@@ -9,7 +9,9 @@
 
 ## 🔭 An Experimentalist
 
-> Failing and winning, and learning in public, but building tools for a web-native future! Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, and more! 
+> Failing, winning, and learning each time in public, but seriously building tools for a web-native future!
+
+> Explore a few: the **simple, basic** answer to the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, and more! 
 
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps.
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: Your most-basic answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
@@ -17,7 +19,8 @@
 - **[Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API.
 - *and [much more](https://github.com/webqit)*.
 
-> It's wild that *it works*!<br />
+> It's wild that *it works*! (Considering the complexity around these subjects.)
+
 > Want to be an early contributor? PRs and Issues are welcome! Also, every star 🌟 counts!
 
 <details>

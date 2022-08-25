@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" />, I'm Oxford Harrison
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford Harrison
 
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 
@@ -65,7 +65,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+<!--
 ## 🌱 And Oh, Play Time?
+-->
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />
 

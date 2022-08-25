@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford Harrison
 
-You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript!
+You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks and electronic toys I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) You'd be right to think that I've always had the will to explore, but not as much on the bandwidth! I fight my way each time!
 
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 

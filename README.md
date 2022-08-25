@@ -17,9 +17,9 @@
 - The JavaScript object observability API: [Observer API](https://github.com/webqit/observer)
 
 <details>
-<summary>Meet me here</summary>
+<summary>...meet me here</summary>
 
-You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
+> You'd be right to think I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But each letter in my name represents dozens of artworks, electronic toys and hand-wired circuit boards I made growing up - before the computer era came in 2012 - yeah, for me! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!)
 
 </details>
 

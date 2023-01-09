@@ -18,7 +18,7 @@
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *[etc](https://github.com/webqit)*.
 
-> Holy! It works! And that's a big deal, considering the complexity and toolchains around these subjects out there in the wild where I come from!<br />
+> Holy! It works! And that's a big deal, considering the complexity and toolchains around these subjects out there!<br />
 > Be an early contributor: PRs and Issues are welcome! Also, a star 🌟 would mean a lot!
 
 <details>

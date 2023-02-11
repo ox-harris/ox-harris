@@ -9,7 +9,7 @@
 
 ## 🔭 An Experimentalist, Heavily Invested in the Web of the Future! 😎
 
-Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story; this time, with a view to going web-native and banking less on abstractions!
+Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story! This time, with a view to going web-native and banking less on abstractions!
 
 And here's where that story unfolds - my open source expeditions:
 

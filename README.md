@@ -30,7 +30,8 @@ A fulltime open source steward, fullstack JavaScript engineer, and web standards
 
 ## 💬 AMA
 
-*Ask me anything on my most-exciting topics:*
+<details>
+<summary>Ask me anything on my most-exciting topics</summary><br />
 
 - JavaScript/Node.js
 - Reactivity
@@ -43,7 +44,12 @@ A fulltime open source steward, fullstack JavaScript engineer, and web standards
 - Open Source
 - Startups
 
+</details>
+
 ## ⚡ Technologies
+
+<details>
+<summary>My toolbox</summary><br />
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -76,6 +82,8 @@ A fulltime open source steward, fullstack JavaScript engineer, and web standards
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+
+</details>
 
 ## 🌱 Now Playing...
 

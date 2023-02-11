@@ -11,7 +11,7 @@
 
 Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story! This time, with a view to better involving the web platform!
 
-- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the JavaScript language - introducing Imperative Reactive Programming (IRP).
+- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 - **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
 - **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)

@@ -9,7 +9,9 @@
 
 ## 🔭 An Experimentalist, Heavily Invested in the Web of the Future! 😎
 
-Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story! This time, with a view to better involving the web platform!
+Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story; this time, with a view to going web-native and banking less on abstractions!
+
+And here's where that story unfolds - my open source expeditions:
 
 - **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 - **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)

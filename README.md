@@ -7,10 +7,9 @@
 
 </div>
 
-## 🔭 An Experimentalist
+## 🔭 An Experimentalist, Heavily Invested in the Web of the Future! 😎
 
-> A Curiosity Rover who doesn't mind failing, learning, and winning in public, to build tools for the web of the future! 😎<br />
-> Look below for that simple toolset that nails the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, and more.
+> Curious about the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, and the rest of modern application development paradigms.
 
 - **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 - **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)

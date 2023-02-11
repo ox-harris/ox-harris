@@ -9,31 +9,28 @@
 
 ## 🔭 An Experimentalist, Heavily Invested in the Web of the Future! 😎
 
-> Curious about the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` architecture, the `SPA/MPA/MPA+SPA` architecture, and the rest of modern application development paradigms.
+Curious about the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and the rest of the paradigms in the modern application story! This time, with a view to better involving the web platform!
 
-- **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
-- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the JavaScript language - introducing Imperative Reactive Programming (IRP).
+- **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
+- **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *[etc](https://github.com/webqit)*.
 
-> Holy! It works! And that's a big deal, considering the complexity and toolchains around these subjects out there!<br />
-> Be an early contributor: PRs and Issues are welcome! Also, a star 🌟 would mean a lot!
+> Contributors welcome: PRs and Issues, and everything else - even a star 🌟!
 
 <details>
-<summary>- Now, how about the story of me?</summary><br />
+<summary>- About me?</summary><br />
 
-> You'd be right to think that I'm a go-getter, and there's a chance I've succeeded once! Maybe twice! Maybe not in JavaScript! But there've been the hundreds of artworks, electronic toys and hand-wired circuit boards I made from early childhood until the computer age arrived in late 2012 - yeah, for me! I built things at the speed of thought, and that was fun! (Honourable mentions to the self-driving car and the 10-passenger plane that both never saw the light of day!) 
-
-> Coming to web development wasn't without the same flare to explore! You can often find me modeling problems, investigating solutions and challenging poor takes! I'm often choosing to monkey with the DOM and browser APIs, and to jump right into that compiler to find the missing pieces in native HTML, CSS, and JavaScript rather than accept a framework that'll charge me an arm and a leg! It's pissing that I often fail in the process and have to restart! But who says no to fun?
-
-> Now, I'm not sure you're thinking about it, but what if the most of modern frontend complexity has been self-imposed all along? That would be a rude awakening! But you can watch me unfold this as a moving story through tweets and articles! 
+> A fulltime open source steward, fullstack JavaScript engineer, and web standards advocate! 
+  
+> When not monkeying with the DOM and browser APIs, I'm out there [challenging poor takes](https://dev.to/oxharris/rethinking-the-modern-web-2e4f-temp-slug-7135858?preview=d3b606d12f08e26d286d57ece555a606ca218e94ea233a133ca684f99227ede1e0171d75f4b73caf054f70607c2075ac035f86b41c7f86e7372aec80) on the modern web!  
 
 </details>
 
 ## 💬 AMA
 
-> Ask me anything (seriously) on my most-exciting topics:
+> Ask me anything on my most-exciting topics:
 
 - JavaScript/Node.js
 - Reactivity
@@ -45,8 +42,6 @@
 - Web Standards
 - Open Source
 - Startups
-
-> It's easy: you can [schedule a brief meeting](https://calendly.com/ox-harris) with me on Calendly, or drop me a mail at `oxharris.dev` `@` `gmail.com`.
 
 ## ⚡ Technologies
 
@@ -81,11 +76,6 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
-
-<!--
-
-Besides contributing to open source I enjoy tinkering with electronics, hardware hacking
--->
 
 ## 🌱 Now Playing...
 

@@ -24,7 +24,7 @@ And here's where that story unfolds - my open source expedition:
 
 A fulltime open source steward, fullstack JavaScript engineer, and web standards advocate!
   
-> When not monkeying with the DOM and browser APIs, I'm out there [challenging poor takes](https://dev.to/oxharris/rethinking-the-modern-web-2e4f-temp-slug-7135858?preview=d3b606d12f08e26d286d57ece555a606ca218e94ea233a133ca684f99227ede1e0171d75f4b73caf054f70607c2075ac035f86b41c7f86e7372aec80) on the modern web!
+> When not monkeying with the DOM and browser APIs, I'm out there [challenging poor takes](https://dev.to/oxharris/rethinking-the-modern-web-5cn1) on the modern web!
 
 </details>
 

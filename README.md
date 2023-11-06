@@ -1,10 +1,8 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oxford Harrison...
 
 <div>
-<a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a>
-<a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/linkedin/follow/ox-harris?logo=linkedin&style=for-the-badge" alt="ox-harris" /></a>
-<a href="https://linkedin.com/in/ox-harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ox-harris" height="30" width="40" /></a>
-<a href="https://dev.to/oxharris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ox-harris" height="30" width="40" /></a>
+
+[![Twitter][twitter_src]][twitter_url]
 
 </div>
 
@@ -95,3 +93,11 @@ Currently building cool Concept Cars for the modern web:
 > Orchestra
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />
+
+
+[twitter_src]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+[twitter_url]: https://twitter.com/ox_harris
+[linkedin_src]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+[linkedin_url]: https://linkedin.com/in/ox-harris
+[dev_src]: https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev&logoColor=white
+[dev_url]: https://dev.to/oxharris

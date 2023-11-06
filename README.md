@@ -14,7 +14,11 @@ with active, open expeditions around the paradigms and techniques that underpin 
 <details>
 <summary>- About me?</summary><br />
 
-A founder, fulltime open source steward, fullstack JavaScript engineer, and web standards advocate! Heavily invested in:
+A founder, fulltime open source steward, fullstack JavaScript tooling engineer, and web standards advocate!
+  
+> When not monkeying with the DOM and browser APIs, I'm out there [challenging the status quo](https://dev.to/oxharris/) on the modern web!
+
+And you can Ask Me Anything (AMA) on my most exciting topics:
 
 - JavaScript/Node.js
 - Reactivity
@@ -26,8 +30,6 @@ A founder, fulltime open source steward, fullstack JavaScript engineer, and web 
 - Web Standards
 - Open Source
 - Startups
-  
-> When not monkeying with the DOM and browser APIs, I'm out there [challenging the status quo](https://dev.to/oxharris/) on the modern web!
 
 </details>
 

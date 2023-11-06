@@ -3,6 +3,9 @@
 <div>
 
 [![Twitter][twitter_src]][twitter_url]
+[![DEV][dev_src]][dev_url]
+[![LinkedIn][linkedin_src]][linkedin_url]
+
 
 </div>
 

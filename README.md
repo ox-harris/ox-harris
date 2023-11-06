@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford Harrison
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford...
 
 <div>
 <a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 
@@ -7,9 +7,9 @@
 
 </div>
 
-## 🔭 An Experimentalist...
+## 🔭 An Experimentalist.
 
-hacking in the open - on the future of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+with active, open expeditions around the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
 <details>
 <summary>- About me?</summary><br />
@@ -20,9 +20,9 @@ A fulltime open source steward, fullstack JavaScript engineer, and web standards
 
 </details>
 
-## ⚡ Building Cool Concept Cars for the Modern Web
+## ⚡ An Open Source Creator.
 
-currently leading importsnt open source expeditions...
+currently building cool Concept Cars for the modern web:
 
 - **[Stateful JS](https://github.com/webqit/stateful-js)**: JavaScript's most advanced form of reactivity; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
 - **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)

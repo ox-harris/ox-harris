@@ -9,19 +9,16 @@
 
 ## 🔭 An Experimentalist 
 
-with active, open expeditions around the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+with active, open expeditions around paradigms and techniques underpinning the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
 <details>
 <summary>- About me?</summary><br />
 
-A founder, fulltime open source steward, fullstack JavaScript tooling engineer, and web standards advocate!
-  
-> When not monkeying with the DOM and browser APIs, I'm out there [challenging the status quo](https://dev.to/oxharris/) on the modern web!
+A founder, fulltime open source steward, fullstack JS tooling engineer, web standards advocate!
 
-And you can Ask Me Anything (AMA) on my most exciting topics:
+And my most exciting topics?:
 
-- JavaScript/Node.js
-- Reactivity
+- JavaScript/Node.js Tooling
 - Imperative Reactive Programming (IRP)
 - DOM/Browser APIs
 - Web Components

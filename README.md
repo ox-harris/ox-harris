@@ -1,7 +1,8 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Oxford...
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oxford Harrison...
 
 <div>
-<a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a> 
+<a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/ox_harris?logo=twitter&style=for-the-badge" alt="ox_harris" /></a>
+<a href="https://twitter.com/ox_harris" target="blank"><img align="center" src="https://img.shields.io/linkedin/follow/ox-harris?logo=linkedin&style=for-the-badge" alt="ox-harris" /></a>
 <a href="https://linkedin.com/in/ox-harris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ox-harris" height="30" width="40" /></a>
 <a href="https://dev.to/oxharris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ox-harris" height="30" width="40" /></a>
 
@@ -9,16 +10,16 @@
 
 ## 🔭 An Experimentalist 
 
-with active, open expeditions around paradigms and techniques underpinning the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+With active, open expeditions around paradigms and techniques underpinning the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
 <details>
-<summary>- About me?</summary><br />
+<summary>About me?</summary>
 
 A founder, fulltime open source steward, fullstack JS tooling engineer, web standards advocate!
 
 And my most exciting topics?:
 
-- JavaScript/Node.js Tooling
+- JavaScript/Node.js
 - Imperative Reactive Programming (IRP)
 - DOM/Browser APIs
 - Web Components
@@ -32,7 +33,7 @@ And my most exciting topics?:
 
 ## ⚡ A Web Tooling Dude
 
-currently building cool Concept Cars for the modern web:
+Currently building cool Concept Cars for the modern web:
 
 **[Stateful JS](https://github.com/webqit/stateful-js)**: JavaScript's most advanced form of reactivity; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
 

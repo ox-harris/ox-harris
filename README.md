@@ -7,7 +7,7 @@
 
 </div>
 
-## 🔭 An Experimentalist.
+## 🔭 An Experimentalist 
 
 with active, open expeditions around the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
@@ -20,7 +20,7 @@ A fulltime open source steward, fullstack JavaScript engineer, and web standards
 
 </details>
 
-## ⚡ An Open Source Creator.
+## ⚡ An Open Source Creator 
 
 currently building cool Concept Cars for the modern web:
 
@@ -30,10 +30,7 @@ currently building cool Concept Cars for the modern web:
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *[[...rest_parameters]](https://github.com/webqit)*.
 
-## 💬 AMA
-
-<details>
-<summary>Ask me anything on my most-exciting topics</summary><br />
+## 💬 Invested In:
 
 - JavaScript/Node.js
 - Reactivity
@@ -46,8 +43,7 @@ currently building cool Concept Cars for the modern web:
 - Open Source
 - Startups
 
-</details>
-
+<!--
 ## ⚡ Technologies
 
 <details>
@@ -86,6 +82,7 @@ currently building cool Concept Cars for the modern web:
 </p>
 
 </details>
+-->
 
 ## 🌱 Now Playing...
 

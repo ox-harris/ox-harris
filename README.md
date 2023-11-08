@@ -39,13 +39,9 @@ And my most exciting topics?:
 Currently building cool Concept Cars for the modern web:
 
 + **[Stateful JS](https://github.com/webqit/stateful-js)**: JavaScript's most advanced form of reactivity; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
-
 + **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
-
 + **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
-
 + **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
-
 + *[[...rest_parameters]](https://github.com/webqit)*.
 
 <!--

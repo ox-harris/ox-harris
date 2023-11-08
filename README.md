@@ -11,13 +11,14 @@
 
 ## 🔭 An Experimentalist 
 
-With active, open expeditions around paradigms and techniques underpinning the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+With active, open expeditions on the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
 <details>
 <summary>About me?</summary>
 
 A founder, fulltime open source steward, fullstack JS tooling engineer, web standards advocate!
 
+<!--
 And my most exciting topics?:
 
 - JavaScript/Node.js
@@ -29,6 +30,7 @@ And my most exciting topics?:
 - Web Standards
 - Open Source
 - Startups
+-->
 
 </details>
 
@@ -36,15 +38,15 @@ And my most exciting topics?:
 
 Currently building cool Concept Cars for the modern web:
 
-**[Stateful JS](https://github.com/webqit/stateful-js)**: JavaScript's most advanced form of reactivity; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
++ **[Stateful JS](https://github.com/webqit/stateful-js)**: JavaScript's most advanced form of reactivity; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
 
-**[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
++ **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
 
-**[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
++ **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 
-**[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
++ **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 
-*[[...rest_parameters]](https://github.com/webqit)*.
++ *[[...rest_parameters]](https://github.com/webqit)*.
 
 <!--
 ## ⚡ Technologies
@@ -85,7 +87,6 @@ Currently building cool Concept Cars for the modern web:
 </p>
 
 </details>
--->
 
 ## 🌱 Now Playing...
 
@@ -97,6 +98,7 @@ Currently building cool Concept Cars for the modern web:
 
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" />
 
+-->
 
 [twitter_src]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 [twitter_url]: https://twitter.com/ox_harris

@@ -11,7 +11,7 @@
 
 ## 🔭 I Build In Public
 
-A founder and fulltime open source dev tools engr. writing everything from compilers & frameworks, to CLIs & DOM APIs, championing open expeditions on the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+A founder and fulltime open source dev tools engr. writing everything from compilers & frameworks to CLIs & DOM APIs, championing open expeditions on the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
 ## ⚡ Tooling Is My Moat
 

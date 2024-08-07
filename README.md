@@ -9,34 +9,13 @@
 
 </div>
 
-## 🔭 An Experimentalist 
+## 🔭 I Build In Public
 
-With active, open expeditions on the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
+A founder and fulltime open source dev tools engr. writing everything from compilers & frameworks, to CLIs & DOM APIs, championing open expeditions on the paradigms and techniques that underpin the modern web: `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.!
 
-<details>
-<summary>About me?</summary>
+## ⚡ Tooling Is My Moat
 
-A founder, fulltime open source steward, fullstack JS tooling engineer, web standards advocate!
-
-<!--
-And my most exciting topics?:
-
-- JavaScript/Node.js
-- Imperative Reactive Programming (IRP)
-- DOM/Browser APIs
-- Web Components
-- Progressive Web Apps (PWA)
-- Web-Native Development
-- Web Standards
-- Open Source
-- Startups
--->
-
-</details>
-
-## ⚡ A Web Tooling Dude
-
-Currently building cool Concept Cars for the modern web:
+On a mission to build better/smarter primitives for the modern web:
 
 + **[Quantum JS](https://github.com/webqit/quantum-js)**: The web's most advanced Reactivity Programming paradigm; an upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
 + **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)

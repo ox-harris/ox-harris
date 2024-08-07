@@ -15,7 +15,9 @@ A founder and fulltime open source dev tools engr. writing everything from compi
 
 ## ⚡ Tooling Is My Moat
 
-I'm on a mission to build better/smarter primitives for the modern web. Explore my tooling work below.
+I'm on a mission to build better/smarter primitives for the modern web.
+
+Start from my pinned repos below:
 
 [twitter_src]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 [twitter_url]: https://twitter.com/ox_harris

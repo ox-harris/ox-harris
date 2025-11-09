@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oxford...
 
-🛠️ A founder and dev tools engr. writing everything from compilers & frameworks to CLIs & DOM APIs! (I'm on a mission to build better abstractions for the modern web.) Some of these monstrosities are in my pinned repos below.
+🛠️ Founder and dev tools engr. — building [LinkedQL](https://github.com/linked-db/linked-ql) and [Webflo](https://github.com/webqit/webflo) plus other monstrosities pinned below.
 
 <div>
 
@@ -10,8 +10,6 @@
 
 
 </div>
-
-⚡ Tooling Is My Game. Really. Ask me Anything!
 
 [twitter_src]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 [twitter_url]: https://twitter.com/ox_harris

@@ -2,7 +2,7 @@
 
 I work on the [UseLive](https://github.com/webqit/use-live) JavaScript engine, the [LinkedQL & FlashQL](https://github.com/linked-db/linked-ql) database engines, the [Webflo](https://github.com/webqit/webflo) framework, the [OOHTML](https://github.com/webqit/oohtml) browser polyfill, and the rest of the new computing substrate being developed at [<img src="https://avatars.githubusercontent.com/u/312239655?s=200&v=4" width="12px"> Finite State Labs](https://github.com/finitestatelabs) — as Principal Researcher & Engineer.
 
-<br>
+---
 
 <div>
 

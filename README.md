@@ -1,7 +1,7 @@
-# Principal Engineer & Lead Researcher | [![Finite State Labs][fsl_src]][fsl_url]
+# Principal Engineer & Lead Researcher | <sub><img align="top" src="https://avatars.githubusercontent.com/u/312239655?s=160&v=4" width="30"></sub>
 <!--# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oxford.-->
 
-Works on the [Observer](https://github.com/webqit/observer) API, the [UseLive](https://github.com/webqit/use-live) JavaScript language extension, the [LinkedQL](https://github.com/webqit/use-live) database driver, the [FlashQL](https://github.com/linked-db/linked-ql#4-run-sql-locally-with-flashql) database engine, the [Webflo](https://github.com/webqit/webflo) JavaScript framework, the [OOHTML](https://github.com/webqit/oohtml) browser polyfill, and the entire computing substrate from [<sup>&thinsp;<img align="middle" src="https://avatars.githubusercontent.com/u/312239655?s=160&v=4" width="16">&nbsp;</sup>**Finite State Labs**](https://github.com/finitestatelabs).
+Works on the [Observer](https://github.com/webqit/observer) API, the [UseLive](https://github.com/webqit/use-live) JavaScript language extension, the [LinkedQL](https://github.com/webqit/use-live) SQL language extension, the [FlashQL](https://github.com/linked-db/linked-ql#4-run-sql-locally-with-flashql) database engine, the [Webflo](https://github.com/webqit/webflo) JavaScript framework, the [OOHTML](https://github.com/webqit/oohtml) browser polyfill, and the entire computing substrate from [<sup>&thinsp;<img align="middle" src="https://avatars.githubusercontent.com/u/312239655?s=160&v=4" width="16">&nbsp;</sup>**Finite State Labs**](https://github.com/finitestatelabs).
 
 ---
 
